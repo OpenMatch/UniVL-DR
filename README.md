@@ -16,7 +16,7 @@ There are source codes for Universal Vision-Language Dense Retrieval [Our Paper]
 
 ## Data and Checkpoint
 * All these files can be downloaded and you should put them in the corresponding folders.
-* All ``data`` can be found at [Ali Drive](https://thunlp.oss-cn-qingdao.aliyuncs.com/UniVLDR/data.zip).
+* All ``data`` can be found at [Ali Drive](https://thunlp.oss-cn-qingdao.aliyuncs.com/UniVLDR/data.zip). Please note that the ``imgs.tsv`` file should be downloaded from the project of WebQA (We can not distribute the data).
 * The ``checkpoint_multi_inb`` (The checkpoint of CLIP-DPR) can be found at [Ali Drive](https://thunlp.oss-cn-qingdao.aliyuncs.com/UniVLDR/checkpoint_multi_inb.zip).
 * The ``checkpoint_multi_hn``  (The checkpoint of UniVL-DR) can be found at [Ali Drive](https://thunlp.oss-cn-qingdao.aliyuncs.com/UniVLDR/checkpoint_multi_hn.zip).
 
